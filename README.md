@@ -2,7 +2,7 @@
 # Target Based Drug Discovery for HCM
 # Overview
 
-This project focuses on computational drug discovery for Hypertrophic Cardiomyopathy (HCM) using machine learning techniques. The primary target is TNNI3, a gene linked to HCM. The study leverages molecular descriptors, IC50 filtering, and visualization techniques to identify potential drug candidates. A RandomForest ML model is implemented to predict pIC50 (-log10(IC50)) values and compare them with experimental data.
+This project focuses on computational drug discovery for Hypertrophic Cardiomyopathy (HCM) using machine learning techniques. The primary target is TNNI3, a gene linked to HCM. The study leverages molecular descriptors, IC50 filtering, and visualization techniques to identify potential drug candidates. A RandomForest ML model is implemented to predict pIC50 (-log10(IC50)) values and compare them with experimental data. Below is an overview of the analysis, along with sample outputs and results. This project was done in Nov' 2022.
 
 
 
